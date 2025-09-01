@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Grant Wang 👋
 
-<!--
-**gwdio/gwdio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science @ Northeastern University (Class of 2028)  
+💻 Interests: Programming Languages, Algorithms, Game Utilities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- **Languages:** Python, Java, Typescript, C/C++, Dart, Racket  
+- **Technologies:** Flutter, Flask, MUI, LaTeX, Abstract Syntax Trees  
+
+---
+
+## 🚀 Projects
+- **[Python Code Obfuscator](https://github.com/gwdio/Pyobfuscate)** – AST + policy-based design for logical code obfuscation.  
+- **[D&D Combat and Context Manager](https://github.com/gwdio/DnD-Kirimana)** – Utility for managing characters, combat, and resources.  
+- **[Card Playing Robotics](https://github.com/NEURoboticsClub/Card-Playing-Robot)** – Risk algorithm & scoring implementation for robotics play.  
+
+---
+
+## 💼 Experience
+- **Anytime AI (2025)** – Software Engineering Intern (UI refactoring, testing frameworks).  
+- **GuardBot Inc. (2024)** – Software Development Intern (Flutter cross-platform control app).  
+- **CAHAI (2022–2024)** – Webmaster (website redesign, SEO optimization).  
+
+---
+
+## 🌱 Outside of Tech
+Skiing 🎿 | Paddle Sports 🏓 | Gaming 🎮 | Philosophy 💡 | D&D 🎲  
+
+---
