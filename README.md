@@ -19,7 +19,7 @@
 ---
 
 ## 💼 Experience
-- **Northeastern University; Khoury College of Computer Science** - Lead Teaching Assistant for Fundamentals of Computer Science II/Program Design and Implementation I
+- **Northeastern University; Khoury College of Computer Science** - Lead Teaching Assistant for Fundamentals of Computer Science II/Program Design and Implementation I.
 - **Anytime AI (2025)** – Software Engineering Intern (UI refactoring, testing frameworks).  
 - **GuardBot Inc. (2024)** – Software Development Intern (Flutter cross-platform control app).  
 - **CAHAI (2022–2024)** – Webmaster (website redesign, SEO optimization).  
