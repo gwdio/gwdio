@@ -1,32 +1,32 @@
-# Hi, I'm Grant Wang 👋
+# 👋 Hi, I’m Grant Wang
 
-🎓 Computer Science @ Northeastern University (Class of 2028)  
-💻 Interests: Programming Languages, Algorithms, Game Utilities  
-
----
-
-## 🔧 Skills
-- **Languages:** Python, Java, Typescript, C/C++, Dart, Racket  
-- **Technologies:** Flutter, Flask, MUI, LaTeX, Abstract Syntax Trees  
-
+🎓 CS @ Northeastern University (Foundations + Math)
+🧩 Good design makes for good times.
 ---
 
 ## 🚀 Projects
-- **[Python Code Obfuscator](https://github.com/gwdio/Pyobfuscate)** – AST + policy-based design for logical code obfuscation.  
-- **[D&D Combat and Context Manager](https://github.com/gwdio/DnD-Kirimana)** – Utility for managing characters, combat, and resources.  
-- **[Card Playing Robotics](https://github.com/NEURoboticsClub/Card-Playing-Robot)** – Risk algorithm & scoring implementation for robotics play.  
+
+- **[PyObfuscate](https://github.com/gwdio/Pyobfuscate)** — compiler-style Python obfuscator using AST + strategy pattern, with a FastAPI interface.
+- **[DnDSystem](https://github.com/gwdio/DnD-Kirimana)** — CLI engine for D&D encounters; command-pattern architecture with JSON/SQL persistence.
+- **[OCaml Max Heap](https://github.com/gwdio/Ocaml-Max-Heap)** — purely functional heap tuned through profiling and recursion flattening.
+- **Klondike Solitaire** — full MVC Java project with 100% test coverage via JUnit + JaCoCo.
+- **[GuardBot Control App](https://github.com/NEURoboticsClub/Card-Playing-Robot)** — Flutter-based robotics controller with live WebSocket telemetry.
 
 ---
 
-## 💼 Experience
-- **Northeastern University; Khoury College of Computer Science** - Lead Teaching Assistant for Fundamentals of Computer Science II/Program Design and Implementation I.
-- **Anytime AI (2025)** – Software Engineering Intern (UI refactoring, testing frameworks).  
-- **GuardBot Inc. (2024)** – Software Development Intern (Flutter cross-platform control app).  
-- **CAHAI (2022–2024)** – Webmaster (website redesign, SEO optimization).  
+## 🧠 Tech I Use
+
+Python · Java · TypeScript · OCaml · C/C++ · SQL
+FastAPI · React · Flutter · Docker · Pandas · PyTest · JUnit
 
 ---
 
-## 🌱 Outside of Tech
-Skiing 🎿 | Paddle Sports 🏓 | Gaming 🎮 | Philosophy 💡 | D&D 🎲  
+## 🌱 Currently
+
+Optimization, of designs, programs, and human behavior
 
 ---
+
+## ⌛ Off the Clock
+
+Skiing · D&D · Paddle Sports · Games · Random late-night optimization experiments
